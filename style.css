@@ -92,8 +92,10 @@ a {
 }
 
 .top_nav {
-    overflow: hidden;
-    background-color: #d22222;
+    overflow: hidden;    
+    background-color: #000000;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .top_nav a {
